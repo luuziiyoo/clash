@@ -8,6 +8,12 @@ DOMAIN-SUFFIX,hao123.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
+DOMAIN-KEYWORD,synology.cn
+DOMAIN-KEYWORD,synology.com
+DOMAIN-KEYWORD,quickconnect.to
+DOMAIN-KEYWORD,quickconnect.cn
+DOMAIN-KEYWORD,myds.me
+
 
 # IP段匹配
 IP-CIDR,219.146.1.66/32,no-resolve
@@ -35,6 +41,17 @@ DOMAIN-SUFFIX,qhstatic.com
 DOMAIN-SUFFIX,qhupdate.com
 DOMAIN-SUFFIX,so.com
 
+# 群晖
+DOMAIN-SUFFIX,checkip.synology.com
+DOMAIN-SUFFIX,checkipv6.synology.com
+DOMAIN-SUFFIX,checkport.synology.com
+DOMAIN-SUFFIX,ddns.synology.com
+DOMAIN-SUFFIX,account.synology.com
+DOMAIN-SUFFIX,synology.cn
+DOMAIN-SUFFIX,synology.com
+DOMAIN-SUFFIX,quickconnect.to
+DOMAIN-SUFFIX,quickconnect.cn
+DOMAIN-SUFFIX,myds.me
 
 # 58
 DOMAIN-SUFFIX,58.com
